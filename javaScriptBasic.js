@@ -21,3 +21,8 @@ console.log(d);
 
 const name = "shehab";
 console.log( name); //string variable declaration and printing
+ const age = 25;
+ console.log(age); //number variable declaration and printing   
+
+ const isStudent = true;
+ console.log(isStudent); //boolean variable declaration and printing    
