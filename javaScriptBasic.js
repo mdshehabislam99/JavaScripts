@@ -26,3 +26,5 @@ console.log( name); //string variable declaration and printing
 
  const isStudent = true;
  console.log(isStudent); //boolean variable declaration and printing    
+ const isGraduated = false;
+ console.log(isGraduated); //boolean variable declaration and printing  
